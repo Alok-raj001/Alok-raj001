@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Alok Raj</h1>
 <h3 align="center">A passionate software Engineer and Web Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/edd6a178ee6a4b30c0bf595da631485f25e8a863620e3efe386969cc11e70bc3/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966">
+<img align="right" alt="coding" width="400" height= "300" src="https://camo.githubusercontent.com/edd6a178ee6a4b30c0bf595da631485f25e8a863620e3efe386969cc11e70bc3/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alok-raj001&label=Profile%20views&color=0e75b6&style=flat" alt="alok-raj001" /> </p>
 - 🔭 I’m currently working as Analyst at Avataar skincare Technology <br>
